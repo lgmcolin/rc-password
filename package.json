@@ -1,0 +1,37 @@
+{
+  "name": "react-password",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "",
+  "author": "gengmin.lgm",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "index.js",
+    "dependencies": {
+      "react": "~0.12.1",
+      "spassword": "1.2.0",
+      "anima-yocto": "1.1.5",
+      "arale-events": "1.2.0",
+      "import-style": "1.0.0"
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    },
+    "registry": "http://spm.alipay-inc.com"
+  },
+  "devDependencies": {
+    "spm": "3"
+  },
+  "scripts": {
+    "test": "spm test",
+    "build": "spm build"
+  }
+}
