@@ -1,9 +1,9 @@
-# react-password [![spm version](http://spmjs.io/badge/react-password)](http://spmjs.io/package/react-password)
+# rc-password [![spm version](http://spmjs.io/badge/react-password)](http://spmjs.io/package/react-password)
 ![image](https://t.alipayobjects.com/images/T1QKBfXdhpXXXXXXXX.png)
 ---
 ## Install
 ```
-$ spm install react-password --save
+$ spm install rc-password --save
 ```
 ## Usage
 ```js
